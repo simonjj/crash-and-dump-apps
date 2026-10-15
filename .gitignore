@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+**/*.dmp
+**/*.crashreport.json
+**/probe.*.txt
+dumps/
+test-results/
+.env
+.env.*
+.vs/
+.vscode/
